@@ -1,4 +1,4 @@
-BitTrade取り扱い通貨(2023/12/22日更新)
+BitTrade取り扱い通貨(2024/03/27日更新)
 ------------------------------------------------------
 Symbol | Coin name
 ------------ | ------------
@@ -8,6 +8,7 @@ eth | ethereum
 xrp | xrp
 doge | dogecoin
 shib | shib inu
+sxp | solar
 bsv | bitcoin sv
 eos | eos network
 dep | depcoin
